@@ -1,0 +1,206 @@
+@media screen and (max-width: 963px) {
+  .message {
+    height:30vh;
+  }
+
+
+
+
+@media screen and (max-width: 947px) {
+  .pic {
+    margin-left: 30%;
+  }
+
+}
+
+@media screen and (max-width: 948px) {
+  .message {
+      height: 30vh;
+  }
+
+}
+
+@media screen and (max-width: 690px) {
+    .deck {
+      width: 600px;
+
+
+    }
+    .deck .card {
+      height: 118px;
+      width: 118px;
+    }
+
+    .message {
+
+    }
+
+    .pic {
+      margin-left: 25%;
+    }
+
+}
+
+@media screen and (max-width: 948px) {
+  .message {
+
+  }
+
+}
+
+
+
+
+
+@media screen and (max-width: 650px) {
+  .deck {
+    width: 550px;
+    min-height: 590px;
+
+  }
+  .deck .card {
+    height: 105px;
+    width: 105px;
+  }
+
+  .message {
+    height: 43vh;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .deck {
+    width: 500px;
+    min-height: 500px;
+
+  }
+  .deck .card {
+    height: 90px;
+    width: 90px;
+  }
+
+  .pic{
+    margin-left: 20%;
+  }
+
+  .restart {
+    margin-right: 10%;
+  }
+
+
+}
+
+@media screen and (max-width: 535px) {
+  .deck {
+    width: 450px;
+    min-height: 450px;
+  }
+
+  .deck .card {
+    height: 80px;
+    width: 80px;
+  }
+
+  .message {
+    height: 30vh
+  }
+
+
+}
+
+@media screen and (max-width: 495px) {
+  .deck {
+    width: 400px;
+    min-height: 400px;
+
+  }
+  .deck .card {
+    height: 70px;
+    width: 70px;
+  }
+
+  .pic {
+    margin-left: 16%;
+  }
+
+  .moves {
+    margin-left: 5%;
+  }
+
+  .score-panel {
+    width: 320px;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .pic {
+    margin-left: 12%;
+  }
+}
+
+@media screen and (max-width: 445px) {
+  .deck {
+    width: 350px;
+    min-height: 350px;
+
+  }
+  .deck .card {
+    height: 60px;
+    width: 60px;
+  }
+
+  .pic {
+    margin-left: 10%;
+  }
+
+  .moves {
+    margin-left: 10%;
+  }
+  .timer {
+    margin-left: 10%;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .pic {
+    margin-left: 10px;
+  }
+
+  .message {
+    width: 53vw;
+    height: 28vh;
+  }
+
+
+
+  .timer {
+    margin-left: 13%;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .pic {
+    margin-left: 0;
+  }
+
+  .message {
+      width: 48vw;
+      height: 31vh;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .pic {
+    margin-left: 0;
+  }
+
+  .message {
+    width: 44vw;
+    height: 40vh;
+
+  }
+
+  .timer {
+    margin-left: 14%;
+  }
+}
